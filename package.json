@@ -1,0 +1,10 @@
+{
+  "name": "ipconfig",
+  "version": "1.0.0",
+  "description": "Standalone tool that displays IP information from the terminal",
+  "bin": {
+    "ipconfig": "./index.js"
+  },
+  "author": "ALİM",
+  "license": "MIT"
+}
